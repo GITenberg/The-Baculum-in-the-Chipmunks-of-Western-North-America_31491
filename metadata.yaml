@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '34659'
     url: http://www.gutenberg.org/2009/agents/34659
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/31491#The-Baculum-in-the-Chipmunks-of-Western-North-America
 gutenberg_bookshelf:
 - Animals-Wild-Mammals
 - Animal
